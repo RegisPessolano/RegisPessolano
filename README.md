@@ -29,6 +29,12 @@ Entre os fluxos disponíveis está o [WSL1 com Debian para ambientes que utiliza
 
 Configuração de desempenho do MPV para hardware legado em Linux, priorizando VA-API, filtros leves, fallback por software e uso controlado de memória.
 
+### [Technical Casebook](https://github.com/RegisPessolano/technical-casebook)
+
+Estudos de caso técnicos com investigação, evidências sanitizadas, correção, validação e lições aprendidas.
+
+Primeiro caso: [FortiClient IPsec/IKEv2 e interferência de adaptador loopback na seleção do IP de origem](https://github.com/RegisPessolano/technical-casebook/blob/main/cases/networking/forticlient-ikev2-loopback.md). O diagnóstico mostrou como um adaptador virtual de terceiros pode interferir na escolha do endereço de origem da VPN. O funcionamento foi confirmado após reinicialização e desativação do adaptador, com distinção entre fatos observados e hipóteses.
+
 ## Em foco atualmente
 
 - Automação segura de rotinas administrativas
