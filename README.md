@@ -1,47 +1,34 @@
-# Régis Pessolano
+<!-- Perfil GitHub Cyberpunk Neon HUD — Régis Pessolano (@RegisPessolano) -->
+<div align="center">
 
-**Infraestrutura • Linux • Suporte N2/N3 • Automação • PowerShell**
+<img src="assets/profile.svg" alt="Perfil técnico de Régis Pessolano: infraestrutura de TI, Linux, Windows, suporte N2/N3 e automação." width="100%" />
 
-Profissional de tecnologia com foco em administração de sistemas, diagnóstico técnico e automação de tarefas operacionais. Este perfil reúne soluções práticas, documentação de troubleshooting e scripts voltados a ambientes Windows e Linux.
+<img src="assets/toolkit.svg" alt="Ferramentas e competências técnicas em PowerShell, Shell, Linux, Windows, redes, suporte, hardware e GitHub." width="100%" />
 
-## Áreas de atuação
+<a href="https://github.com/RegisPessolano/intel-uhd620-driver-guard">
+<img src="assets/project-01.svg" alt="Intel UHD 620 Driver Guard — proteção contra regressão de drivers com PowerShell." width="100%" />
+</a>
 
-- Infraestrutura e administração de sistemas
-- Linux e Windows
-- Suporte técnico N2/N3 e análise de causa raiz
-- Automação com PowerShell e shell script
-- Manutenção, desempenho e confiabilidade de estações de trabalho
-- Documentação técnica e procedimentos reversíveis
+<a href="https://github.com/RegisPessolano/windows-maintenance-scripts">
+<img src="assets/project-02.svg" alt="Windows Maintenance Scripts — scripts administrativos para manutenção e diagnóstico." width="100%" />
+</a>
 
-## Projetos em destaque
+<a href="https://github.com/RegisPessolano/mpv-amd-c50-performance">
+<img src="assets/project-03.svg" alt="MPV AMD C-50 Performance — configuração de reprodução de vídeo em hardware legado." width="100%" />
+</a>
 
-### [Intel UHD 620 Driver Guard](https://github.com/RegisPessolano/intel-uhd620-driver-guard)
+<a href="https://github.com/RegisPessolano/technical-casebook">
+<img src="assets/project-04.svg" alt="Technical Casebook — estudos de caso de troubleshooting e análise de causa raiz." width="100%" />
+</a>
 
-Guard em PowerShell que impede o Windows Update de substituir um driver Intel UHD Graphics 620 mais recente por pacotes antigos. Inclui detecção de versão, bloqueio dinâmico de downgrades, verificações sucessivas e proteção agendada.
+<img src="assets/musubi-socials.svg" alt="Musubi Podcast — podcast focado em tecnologia e cultura nerd." width="100%" />
 
-### [Windows Maintenance Scripts](https://github.com/RegisPessolano/windows-maintenance-scripts)
+<p>
+<a href="https://podcasters.spotify.com/pod/show/musubi"><img src="https://img.shields.io/badge/MUSUBI_PODCAST-SPOTIFY-D946EF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=120824" alt="Musubi Podcast no Spotify" /></a>
+<a href="https://www.linkedin.com/in/regissoutellopessolano/"><img src="https://img.shields.io/badge/LINKEDIN-R%C3%89GIS_PESSOLANO-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120824" alt="LinkedIn de Régis Pessolano" /></a>
+<a href="https://www.youtube.com/@regispessolano"><img src="https://img.shields.io/badge/YOUTUBE-%40REGISPESSOLANO-A855F7?style=for-the-badge&logo=youtube&logoColor=white&labelColor=120824" alt="YouTube de Régis Pessolano" /></a>
+<a href="https://x.com/regispessolano"><img src="https://img.shields.io/badge/X_TWITTER-%40REGISPESSOLANO-22D3EE?style=for-the-badge&logo=x&logoColor=white&labelColor=120824" alt="X de Régis Pessolano" /></a>
+<a href="https://www.twitch.tv/regispessolano"><img src="https://img.shields.io/badge/TWITCH-REGISPESSOLANO-D946EF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=120824" alt="Twitch de Régis Pessolano" /></a>
+</p>
 
-Coleção documentada de scripts administrativos para diagnóstico e manutenção do Windows, com atenção a impacto, backup e reversão.
-
-Entre os fluxos disponíveis está o [WSL1 com Debian para ambientes que utilizam undervolt](https://github.com/RegisPessolano/windows-maintenance-scripts/tree/main/scripts/wsl1-debian-undervolt), configurado para evitar conflitos com Hyper-V/VMP e ThrottleStop.
-
-### [MPV para AMD C-50 / Radeon HD 6250](https://github.com/RegisPessolano/mpv-amd-c50-performance)
-
-Configuração de desempenho do MPV para hardware legado em Linux, priorizando VA-API, filtros leves, fallback por software e uso controlado de memória.
-
-### [Technical Casebook](https://github.com/RegisPessolano/technical-casebook)
-
-Estudos de caso técnicos com investigação, evidências sanitizadas, correção, validação e lições aprendidas.
-
-Primeiro caso: [FortiClient IPsec/IKEv2 e interferência de adaptador loopback na seleção do IP de origem](https://github.com/RegisPessolano/technical-casebook/blob/main/cases/networking/forticlient-ikev2-loopback.md). O diagnóstico mostrou como um adaptador virtual de terceiros pode interferir na escolha do endereço de origem da VPN. O funcionamento foi confirmado após reinicialização e desativação do adaptador, com distinção entre fatos observados e hipóteses.
-
-## Em foco atualmente
-
-- Automação segura de rotinas administrativas
-- Troubleshooting reproduzível e bem documentado
-- Compatibilidade entre hardware legado, drivers e sistemas atuais
-- Ferramentas com validação, logs e caminhos claros de reversão
-
----
-
-Os projetos deste perfil partem de problemas reais e priorizam documentação, previsibilidade e manutenção.
+</div>
