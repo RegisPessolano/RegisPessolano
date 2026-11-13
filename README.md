@@ -2,7 +2,7 @@
 <!-- Layout inspirado no perfil de @mille-okws: https://github.com/mille-okws -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/regissoutellopessolano/">
+<a href="https://www.linkedin.com/in/regispessolano/">
 <img src="assets/profile.svg" alt="Perfil técnico de Régis Pessolano: infraestrutura de TI, Linux, Windows, suporte N2/N3 e automação." width="100%" />
 </a>
 
@@ -33,7 +33,7 @@
 <p>
 <a href="https://github.com/RegisPessolano?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-REPOSIT%C3%93RIOS-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=120824" alt="Repositórios de Régis Pessolano no GitHub" /></a>
 <a href="https://podcasters.spotify.com/pod/show/musubi"><img src="https://img.shields.io/badge/MUSUBI_PODCAST-SPOTIFY-D946EF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=120824" alt="Musubi Podcast no Spotify" /></a>
-<a href="https://www.linkedin.com/in/regissoutellopessolano/"><img src="https://img.shields.io/badge/LINKEDIN-R%C3%89GIS_PESSOLANO-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120824" alt="LinkedIn de Régis Pessolano" /></a>
+<a href="https://www.linkedin.com/in/regispessolano/"><img src="https://img.shields.io/badge/LINKEDIN-R%C3%89GIS_PESSOLANO-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120824" alt="LinkedIn de Régis Pessolano" /></a>
 <a href="https://www.youtube.com/@regispessolano"><img src="https://img.shields.io/badge/YOUTUBE-%40REGISPESSOLANO-A855F7?style=for-the-badge&logo=youtube&logoColor=white&labelColor=120824" alt="YouTube de Régis Pessolano" /></a>
 <a href="https://x.com/regispessolano"><img src="https://img.shields.io/badge/X_TWITTER-%40REGISPESSOLANO-22D3EE?style=for-the-badge&logo=x&logoColor=white&labelColor=120824" alt="X de Régis Pessolano" /></a>
 <a href="https://www.twitch.tv/regispessolano"><img src="https://img.shields.io/badge/TWITCH-REGISPESSOLANO-D946EF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=120824" alt="Twitch de Régis Pessolano" /></a>
