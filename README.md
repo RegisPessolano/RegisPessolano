@@ -26,6 +26,10 @@
 <img src="assets/hud/project-04.svg" alt="Technical Casebook — estudos de caso de troubleshooting e análise de causa raiz." width="100%" />
 </a>
 
+<a href="https://github.com/RegisPessolano/x-smart-unfollow">
+<img src="assets/hud/project-05.svg" alt="X Smart Unfollow — limpeza seletiva de perfis seguidos no X via DevTools Console, preservando mútuos e contas privadas." width="100%" />
+</a>
+
 <a href="https://podcasters.spotify.com/pod/show/musubi">
 <img src="assets/hud/musubi-socials.svg" alt="Musubi Podcast — podcast focado em tecnologia e cultura nerd." width="100%" />
 </a>
@@ -62,10 +66,11 @@ Meu jeito de trabalhar é transformar problema recorrente em **script, checklist
 | **[Windows Maintenance Scripts](https://github.com/RegisPessolano/windows-maintenance-scripts)** | Scripts administrativos (cache, Windows Hello, VBS/HVCI, energia) com impacto e reversão documentados. | PowerShell · Batch |
 | **[MPV AMD C-50 Performance](https://github.com/RegisPessolano/mpv-amd-c50-performance)** | MPV em hardware legado: VA-API, filtros leves, fallback por software e backup da configuração. | Linux · Shell |
 | **[Technical Casebook](https://github.com/RegisPessolano/technical-casebook)** | Casos de infraestrutura, redes e VPN com evidências sanitizadas, hipóteses separadas dos fatos e RCA. | Redes · RCA · Docs |
+| **[X Smart Unfollow](https://github.com/RegisPessolano/x-smart-unfollow)** | Limpeza seletiva de "Seguindo" no X via Console: preserva mútuos e contas privadas, com delays e cooldown por lote. | JavaScript · DevTools |
 
 ## // STACK
 
-`PowerShell` · `Bash / Shell` · `Linux (Debian/Ubuntu)` · `Windows Server` · `Active Directory` · `Redes / TCP-IP` · `DNS / DHCP` · `Git` · `Suporte N2/N3`
+`PowerShell` · `Bash / Shell` · `Linux (Debian/Ubuntu)` · `Windows Server` · `Active Directory` · `Redes / TCP-IP` · `DNS / DHCP` · `Git` · `JavaScript` · `Suporte N2/N3`
 
 ## // CONTATO
 
@@ -88,7 +93,8 @@ I turn recurring problems into **scripts, checklists or documentation** — alwa
 - [**Windows Maintenance Scripts**](https://github.com/RegisPessolano/windows-maintenance-scripts) — documented admin scripts with explicit impact and rollback notes.
 - [**MPV AMD C-50 Performance**](https://github.com/RegisPessolano/mpv-amd-c50-performance) — MPV on legacy hardware: VA-API, light filters and software fallback.
 - [**Technical Casebook**](https://github.com/RegisPessolano/technical-casebook) — infrastructure, networking and VPN case studies with sanitized evidence and RCA.
+- [**X Smart Unfollow**](https://github.com/RegisPessolano/x-smart-unfollow) — selective unfollow via browser Console, preserving mutual followers and private accounts, with random delays and batch cooldowns.
 
-**Stack:** `PowerShell` · `Bash / Shell` · `Linux (Debian/Ubuntu)` · `Windows Server` · `Active Directory` · `Networking / TCP-IP` · `DNS / DHCP` · `Git` · `L2/L3 support`
+**Stack:** `PowerShell` · `Bash / Shell` · `Linux (Debian/Ubuntu)` · `Windows Server` · `Active Directory` · `Networking / TCP-IP` · `DNS / DHCP` · `Git` · `JavaScript` · `L2/L3 support`
 
 </details>
