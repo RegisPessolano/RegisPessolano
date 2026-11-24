@@ -5,8 +5,8 @@
 <g>
 <rect x="26" y="137" width="228" height="76" rx="4" fill="#1b0b35" stroke="#a855f7"/>
 <text x="42" y="158" class="cyan" font-size="11">LISTEN</text>
-<text x="42" y="178" font-size="12" font-weight="bold">Spotify for Podcasters</text>
-<text x="42" y="198" class="muted">pod/show/musubi</text>
+<text x="42" y="178" font-size="12" font-weight="bold">Spotify</text>
+<text x="42" y="198" class="muted">open.spotify.com</text>
 </g><g>
 <rect x="266" y="137" width="228" height="76" rx="4" fill="#1b0b35" stroke="#a855f7"/>
 <text x="282" y="158" class="pink" font-size="11">CONNECT</text>

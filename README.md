@@ -20,13 +20,13 @@
 <a href="https://github.com/RegisPessolano/x-smart-unfollow"><img src="assets/hud/project-05.svg" alt="X Smart Unfollow — limpeza seletiva de perfis seguidos no X via DevTools Console, preservando mútuos e contas privadas." width="49%" /></a>
 </p>
 
-<a href="https://podcasters.spotify.com/pod/show/musubi">
+<a href="https://open.spotify.com/show/79ymfssLJ9vaY9x5JAJak8">
 <img src="assets/hud/musubi-socials.svg" alt="Musubi Podcast — podcast focado em tecnologia e cultura nerd." width="100%" />
 </a>
 
 <p>
 <a href="https://github.com/RegisPessolano?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-REPOSIT%C3%93RIOS-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=120824" alt="Repositórios de Régis Pessolano no GitHub" /></a>
-<a href="https://podcasters.spotify.com/pod/show/musubi"><img src="https://img.shields.io/badge/MUSUBI_PODCAST-SPOTIFY-D946EF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=120824" alt="Musubi Podcast no Spotify" /></a>
+<a href="https://open.spotify.com/show/79ymfssLJ9vaY9x5JAJak8"><img src="https://img.shields.io/badge/MUSUBI_PODCAST-SPOTIFY-D946EF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=120824" alt="Musubi Podcast no Spotify" /></a>
 <a href="https://www.linkedin.com/in/regispessolano/"><img src="https://img.shields.io/badge/LINKEDIN-R%C3%89GIS_PESSOLANO-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120824" alt="LinkedIn de Régis Pessolano" /></a>
 <a href="https://www.youtube.com/@regispessolano"><img src="https://img.shields.io/badge/YOUTUBE-%40REGISPESSOLANO-A855F7?style=for-the-badge&logo=youtube&logoColor=white&labelColor=120824" alt="YouTube de Régis Pessolano" /></a>
 <a href="https://x.com/regispessolano"><img src="https://img.shields.io/badge/X_TWITTER-%40REGISPESSOLANO-22D3EE?style=for-the-badge&logo=x&logoColor=white&labelColor=120824" alt="X de Régis Pessolano" /></a>
@@ -61,7 +61,7 @@ Meu jeito de trabalhar é transformar problema recorrente em **script, checklist
 
 Contato profissional via **[LinkedIn](https://www.linkedin.com/in/regispessolano/)**.
 
-[LinkedIn](https://www.linkedin.com/in/regispessolano/) · [YouTube](https://www.youtube.com/@regispessolano) · [X / Twitter](https://x.com/regispessolano) · [Twitch](https://www.twitch.tv/regispessolano) · [Musubi Podcast](https://podcasters.spotify.com/pod/show/musubi)
+[LinkedIn](https://www.linkedin.com/in/regispessolano/) · [YouTube](https://www.youtube.com/@regispessolano) · [X / Twitter](https://x.com/regispessolano) · [Twitch](https://www.twitch.tv/regispessolano) · [Musubi Podcast](https://open.spotify.com/show/79ymfssLJ9vaY9x5JAJak8)
 
 <details>
 <summary><b>English version</b></summary>
