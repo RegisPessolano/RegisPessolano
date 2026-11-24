@@ -10,25 +10,15 @@
 <img src="assets/hud/toolkit.svg" alt="Ferramentas e competências técnicas em PowerShell, Shell, Linux, Windows, redes, suporte, hardware e GitHub." width="100%" />
 </a>
 
-<a href="https://github.com/RegisPessolano/intel-uhd620-driver-guard">
-<img src="assets/hud/project-01.svg" alt="Intel UHD 620 Driver Guard — proteção contra regressão de drivers com PowerShell." width="100%" />
-</a>
-
-<a href="https://github.com/RegisPessolano/windows-maintenance-scripts">
-<img src="assets/hud/project-02.svg" alt="Windows Maintenance Scripts — scripts administrativos para manutenção e diagnóstico." width="100%" />
-</a>
-
-<a href="https://github.com/RegisPessolano/mpv-amd-c50-performance">
-<img src="assets/hud/project-03.svg" alt="MPV AMD C-50 Performance — configuração de reprodução de vídeo em hardware legado." width="100%" />
-</a>
-
-<a href="https://github.com/RegisPessolano/technical-casebook">
-<img src="assets/hud/project-04.svg" alt="Technical Casebook — estudos de caso de troubleshooting e análise de causa raiz." width="100%" />
-</a>
-
-<a href="https://github.com/RegisPessolano/x-smart-unfollow">
-<img src="assets/hud/project-05.svg" alt="X Smart Unfollow — limpeza seletiva de perfis seguidos no X via DevTools Console, preservando mútuos e contas privadas." width="100%" />
-</a>
+<p>
+<a href="https://github.com/RegisPessolano/intel-uhd620-driver-guard"><img src="assets/hud/project-01.svg" alt="Intel UHD 620 Driver Guard — proteção contra regressão de drivers com PowerShell." width="49%" /></a>
+<a href="https://github.com/RegisPessolano/windows-maintenance-scripts"><img src="assets/hud/project-02.svg" alt="Windows Maintenance Scripts — scripts administrativos para manutenção e diagnóstico." width="49%" /></a>
+<br/>
+<a href="https://github.com/RegisPessolano/mpv-amd-c50-performance"><img src="assets/hud/project-03.svg" alt="MPV AMD C-50 Performance — configuração de reprodução de vídeo em hardware legado." width="49%" /></a>
+<a href="https://github.com/RegisPessolano/technical-casebook"><img src="assets/hud/project-04.svg" alt="Technical Casebook — estudos de caso de troubleshooting e análise de causa raiz." width="49%" /></a>
+<br/>
+<a href="https://github.com/RegisPessolano/x-smart-unfollow"><img src="assets/hud/project-05.svg" alt="X Smart Unfollow — limpeza seletiva de perfis seguidos no X via DevTools Console, preservando mútuos e contas privadas." width="49%" /></a>
+</p>
 
 <a href="https://podcasters.spotify.com/pod/show/musubi">
 <img src="assets/hud/musubi-socials.svg" alt="Musubi Podcast — podcast focado em tecnologia e cultura nerd." width="100%" />
@@ -42,11 +32,6 @@
 <a href="https://x.com/regispessolano"><img src="https://img.shields.io/badge/X_TWITTER-%40REGISPESSOLANO-22D3EE?style=for-the-badge&logo=x&logoColor=white&labelColor=120824" alt="X de Régis Pessolano" /></a>
 <a href="https://www.twitch.tv/regispessolano"><img src="https://img.shields.io/badge/TWITCH-REGISPESSOLANO-D946EF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=120824" alt="Twitch de Régis Pessolano" /></a>
 </p>
-
-<sub>
-Layout e tema visual inspirados no perfil <a href="https://github.com/mille-okws"><b>@mille-okws</b></a> (<a href="https://github.com/mille-okws/mille-okws">README original</a>).
-Adaptação e conteúdo próprios, desenvolvidos com apoio de IA (Gemini/Codex).
-</sub>
 
 </div>
 
@@ -74,6 +59,8 @@ Meu jeito de trabalhar é transformar problema recorrente em **script, checklist
 
 ## // CONTATO
 
+Contato profissional via **[LinkedIn](https://www.linkedin.com/in/regispessolano/)**.
+
 [LinkedIn](https://www.linkedin.com/in/regispessolano/) · [YouTube](https://www.youtube.com/@regispessolano) · [X / Twitter](https://x.com/regispessolano) · [Twitch](https://www.twitch.tv/regispessolano) · [Musubi Podcast](https://podcasters.spotify.com/pod/show/musubi)
 
 <details>
@@ -83,7 +70,7 @@ Meu jeito de trabalhar é transformar problema recorrente em **script, checklist
 
 **IT infrastructure, Linux/Windows and automation.** 10+ years in infrastructure and technical support (L1–L3): Windows Server and Active Directory, Linux workstations (Debian/Ubuntu), networking and root cause analysis.
 
-I turn recurring problems into **scripts, checklists or documentation** — always with a backup and a rollback path.
+I turn recurring problems into **scripts, checklists or documentation** — always with a backup and a rollback path. The repositories below are everyday tools, not showcase code.
 
 **Currently:** Windows maintenance automation, driver regression protection and technical case documentation.
 
@@ -97,4 +84,15 @@ I turn recurring problems into **scripts, checklists or documentation** — alwa
 
 **Stack:** `PowerShell` · `Bash / Shell` · `Linux (Debian/Ubuntu)` · `Windows Server` · `Active Directory` · `Networking / TCP-IP` · `DNS / DHCP` · `Git` · `JavaScript` · `L2/L3 support`
 
+**Contact:** For professional inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/regispessolano/).
+
 </details>
+
+---
+
+<div align="center">
+<sub>
+Layout e tema visual inspirados no perfil <a href="https://github.com/mille-okws"><b>@mille-okws</b></a> (<a href="https://github.com/mille-okws/mille-okws">README original</a>).
+Adaptação e conteúdo próprios, desenvolvidos com apoio de IA (Gemini/Codex).
+</sub>
+</div>
